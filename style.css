@@ -198,10 +198,10 @@ input[type="email"]{
         cursor: pointer;
     }
 
-    #icon{
+    #icon2{
         position: absolute;
         left: 215px;
-        bottom: 110px;
+        bottom: 60px;
         display: none;
     }
 
@@ -209,10 +209,11 @@ input[type="email"]{
         position: relative;
     }
 
-    #validationMessage{
+    #validationMessage2{
         position: relative;
-        bottom: 80px;
-        left: 150px;
+        bottom: 40px;
+        font-size: 12px;
+        right: 60px;
     }
 
 }
